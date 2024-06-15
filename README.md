@@ -8,3 +8,14 @@ Welcome, you have reached my public repository of search warrant templates for u
 - T-Mobile Search Warrants
 - Others
 The repository is broken down into folders depending on the records sought or items to be seized.  There is also a repository of sample motions to seal, non-disclosure orders, search warrant attachments, etc.  I have created a Wiki page for this repository, which should help those of you who are new to Github [here](https://github.com/iotdetective/nhsw-templates/wiki).
+
+## Search Warrant Written Statement Templates (Affidavits)
+
+### Generic Template
+[Generic Written Statement Template](https://github.com/user-attachments/files/15855564/Written.Statement.Template.docx)
+
+### Cellular Records
+[Verizon Wireless](https://github.com/user-attachments/files/15855567/Written.Statement.Template.-.Verizon.docx)
+
+### Mobile Forensics
+[Mobile Cellular Devices](https://github.com/user-attachments/files/15855569/Written.Statement.Template.-.Cell.Phone.docx)
