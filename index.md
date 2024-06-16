@@ -8,7 +8,7 @@ Welcome, you have reached my public repository of various templates for use by N
 - [Verious Search Warrant Attachments](#search-warrant-attachments)
 - [Motions to Seal](#motions-to-seal)
 - [Non-Disclosure Orders](#non-disclosure-orders)
-- [Subpoena Duces Tecum](#supoenas)
+- [Subpoena Duces Tecum](#subpoenas)
 
 **WARNING**: All links below this area are direct download links, these template files are either in [docx]  or [pdf] file format.  SHA256 file hashes have been provided with each file to help ensure file integrity, the hash will show up in a code block.
 
