@@ -148,11 +148,3 @@ Welcome, you have reached my public repository of various templates for use by N
 * [Nondisclosure Order - WhatsApp](https://github.com/user-attachments/files/15855683/Nondisclosure.Order.-.WhatsApp.docx)
 
       EBA0D16C700B8E9A4F65AB34DA9DBF628979F88A06F068D1AE599CA455408BB2
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
