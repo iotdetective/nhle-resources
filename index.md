@@ -5,10 +5,10 @@ layout: default
 Welcome, you have reached my public repository of various templates for use by New Hampshire Law Enforcement Officers and Investigators. All templates have been stripped of case relevant facts and identifying data, they will help guide you with the follow examples:
 - [Arrest Warrants](#arrest-warrants)
 - [Various Types of Search Warrants](#search-warrants)
-- [Verious Search Warrant Attachments](https://github.com/iotdetective/nhsw-templates/tree/main#search-warrant-attachments-page_with_curl)
-- [Motions to Seal](https://github.com/iotdetective/nhsw-templates/tree/main#motions-to-seal-lock_with_ink_pen)
-- [Non-Disclosure Orders](https://github.com/iotdetective/nhsw-templates/tree/main#non-disclosure-orders-mute)
-- Subpoena Duces Tecum
+- [Verious Search Warrant Attachments](#search-warrant-attachments)
+- [Motions to Seal](#motions-to-seal)
+- [Non-Disclosure Orders](#non-disclosure-orders)
+- [Subpoena Duces Tecum](#supoenas)
 
 **WARNING**: All links below this area are direct download links, these template files are either in [docx]  or [pdf] file format.  SHA256 file hashes have been provided with each file to help ensure file integrity, the hash will show up in a code block.
 
@@ -146,3 +146,9 @@ Welcome, you have reached my public repository of various templates for use by N
 * [Nondisclosure Order - WhatsApp](https://github.com/user-attachments/files/15855683/Nondisclosure.Order.-.WhatsApp.docx)
 
       EBA0D16C700B8E9A4F65AB34DA9DBF628979F88A06F068D1AE599CA455408BB2
+
+## Subpoenas
+
+* [Subpoena Duces Tecum - Meta Platforms](https://github.com/user-attachments/files/15856021/Subpoena.Duces.Tecum.-.Meta.Platforms.docx)
+
+
