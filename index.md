@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# New Hampshire Law Enforcement Templates :police_car:
+# Templates
 Welcome, you have reached my public repository of various templates for use by New Hampshire Law Enforcement Officers and Investigators. All templates have been stripped of case relevant facts and identifying data, they will help guide you with the follow examples:
 - [Arrest Warrants](https://github.com/iotdetective/nhle-resources/tree/main#arrest-warrants-suspect)
 - [Various Types of Search Warrants](https://github.com/iotdetective/nhle-resources/tree/main#search-warrants-scroll)
@@ -10,11 +10,9 @@ Welcome, you have reached my public repository of various templates for use by N
 - [Non-Disclosure Orders](https://github.com/iotdetective/nhsw-templates/tree/main#non-disclosure-orders-mute)
 - Subpoena Duces Tecum
 
-:warning: WARNING: All links below this area are direct download links, these template files are either in [docx]  or [pdf] file format.  SHA256 file hashes have been provided with each file to help ensure file integrity, the hash will show up in a code block.  An example code box is below, you can easily copy and past the file hash using a code block.
+**WARNING**: All links below this area are direct download links, these template files are either in [docx]  or [pdf] file format.  SHA256 file hashes have been provided with each file to help ensure file integrity, the hash will show up in a code block.
 
-      THIS IS A SAMPLE CODE BLOCK!
-
-## Arrest Warrants :suspect:
+## Arrest Warrants
 * [Generic Arrest Warrant Written Statement](https://github.com/user-attachments/files/15855589/Arrest.Warrant.Template.2.docx)
 
       FD3FC0BA6D2AF7D6591B237D04F94A011C39C2D715953CF3575832E0FE0E8B8E
@@ -23,7 +21,7 @@ Welcome, you have reached my public repository of various templates for use by N
 
       A5ABE33168B156AC54CCAC3291EFE3708669C51503E0904B041F8E9A79B7E9A8
 
-## Search Warrants :scroll:
+## Search Warrants
 
 #### Bank Records
 * [Bank Business Records - Written Statement](https://github.com/user-attachments/files/15855579/Written.Statement.Template.-.Bank.Records.docx)
@@ -97,7 +95,7 @@ Welcome, you have reached my public repository of various templates for use by N
 
       D2161BA9787BC769EFDA5615A72C357E93A9909583CE1E212F96F366E1F83977
 
-## Search Warrant Attachments :page_with_curl:
+## Search Warrant Attachments
 
 #### Cellular Device
 * [Cellular Device - Attachment](https://github.com/user-attachments/files/15855664/Cell.Phone.Device.-.Attachment.docx)
@@ -109,7 +107,7 @@ Welcome, you have reached my public repository of various templates for use by N
 
       F73C287E3CF20C9C82233A6D3482A56EEAAEECBA3576C97439DD70643FC14E5D
 
-## Motions to Seal :lock_with_ink_pen:
+## Motions to Seal
 
 #### Case Integrity/PII Concerns
 * [Motion to Seal - Case Integrity and Confidential Information](https://github.com/user-attachments/files/15855670/Motion.to.Seal.-.Case.Integrity.and.Confidential.Information.docx)
@@ -121,7 +119,7 @@ Welcome, you have reached my public repository of various templates for use by N
 
       F42A8C47ABFBAE74B96988B977EB05CA2238420D12FA60C51306ED67A917AD20
 
-## Non-Disclosure Orders :mute:
+## Non-Disclosure Orders
 
 #### Generic Order
 * [Generic Nondisclosure Order](https://github.com/user-attachments/files/15855678/Nondisclosure.Order.docx)
