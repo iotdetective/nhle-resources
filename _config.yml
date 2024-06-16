@@ -1,6 +1,6 @@
 title: New Hampshire Law Enforcement Resources
 logo: /assets/img/logo.png
 description: A repository of templates for use by New Hampshire Law Enforcement and Investigators.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
