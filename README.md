@@ -15,10 +15,10 @@ Welcome, you have reached my public repository of various templates for use by N
 ## Search Warrants :scroll:
 
 #### Bank Records
-* [Bank Business Records](https://github.com/user-attachments/files/15855579/Written.Statement.Template.-.Bank.Records.docx)
+* [Bank Business Records - Written Statement](https://github.com/user-attachments/files/15855579/Written.Statement.Template.-.Bank.Records.docx)
 
 #### Cellular Records
-* [Verizon Wireless](https://github.com/user-attachments/files/15855567/Written.Statement.Template.-.Verizon.docx)
+* [Verizon Wireless - Written Statement](https://github.com/user-attachments/files/15855567/Written.Statement.Template.-.Verizon.docx)
 
 #### DNA Warrant
 * [DNA Warrant & Application PDF - Court Form.pdf](https://github.com/user-attachments/files/15855601/DNA.Warrant.Application.PDF.pdf)
@@ -29,25 +29,25 @@ Welcome, you have reached my public repository of various templates for use by N
 * [Generic Written Statement Template](https://github.com/user-attachments/files/15855564/Written.Statement.Template.docx)
 
 #### Missing Persons
-* [Administrative Inspection Warrant - Missing Person](https://github.com/user-attachments/files/15855578/Written.Statement.Template.-.Administrative.Inspection.Warrant.-.Missing.Person.docx)
+* [Administrative Inspection Warrant - Missing Person - Written Statement](https://github.com/user-attachments/files/15855578/Written.Statement.Template.-.Administrative.Inspection.Warrant.-.Missing.Person.docx)
 
 * [Administrative Inspection Warrant & Application PDF - Court Form](https://github.com/user-attachments/files/15855598/Missing.Person.-.Administrative.Inspection.Warrant.PDF.pdf)
 
 #### Mobile Forensics
-* [Mobile Cellular Devices](https://github.com/user-attachments/files/15855569/Written.Statement.Template.-.Cell.Phone.docx)
+* [Mobile Cellular Devices - Written Statement](https://github.com/user-attachments/files/15855569/Written.Statement.Template.-.Cell.Phone.docx)
 
 * [Mobile Cellular Device Warrant & Application PDF - Court Form](https://github.com/user-attachments/files/15855596/Electronic.Device.Warrant.Application.PDF.pdf)
 
 #### Social Media Platforms
-* [Facebook](https://github.com/user-attachments/files/15855580/Written.Statement.Template.-.Facebook.docx)
+* [Facebook - Written Statement](https://github.com/user-attachments/files/15855580/Written.Statement.Template.-.Facebook.docx)
 
 * [Facebook - Instagram - WhatsApp Warrant & Application PDF - Court Form](https://github.com/user-attachments/files/15855599/Facebook-Instagram-WhatsApp.Warrant.Application.PDF.pdf)
 
-* [Google](https://github.com/user-attachments/files/15855582/Written.Statement.Template.-.Google.docx)
+* [Google - Written Statement](https://github.com/user-attachments/files/15855582/Written.Statement.Template.-.Google.docx)
 
-* [Instagram](https://github.com/user-attachments/files/15855583/Written.Statement.Template.-.Instagram.docx)
+* [Instagram - Written Statement](https://github.com/user-attachments/files/15855583/Written.Statement.Template.-.Instagram.docx)
 
-* [Snapchat](https://github.com/user-attachments/files/15855585/Written.Statement.Template.-.Snapchat.docx)
+* [Snapchat - Written Statement](https://github.com/user-attachments/files/15855585/Written.Statement.Template.-.Snapchat.docx)
 
 * [Snapchat Warrant & Application PDF - Court Form.pdf](https://github.com/user-attachments/files/15855600/Snapchat.Warrant.Application.PDF.pdf)
 
@@ -55,8 +55,9 @@ Welcome, you have reached my public repository of various templates for use by N
 
 #### Cellular Device
 * [Cellular Device - Attachment](https://github.com/user-attachments/files/15855664/Cell.Phone.Device.-.Attachment.docx)
-  
-* [Snapchat.docx](https://github.com/user-attachments/files/15855666/Snapchat.docx)
+
+#### Social Media  
+* [Snapchat - Attachment](https://github.com/user-attachments/files/15855666/Snapchat.docx)
 
 ## Motions to Seal :lock_with_ink_pen:
 
