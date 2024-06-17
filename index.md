@@ -10,7 +10,7 @@ Welcome, you have reached my public repository of various templates for use by N
 - [Non-Disclosure Orders](#non-disclosure-orders)
 - [Subpoena Duces Tecum](#subpoenas)
 
-**WARNING**: All links below this area are direct download links, these template files are either in [docx]  or [pdf] file format.  SHA256 file hashes have been provided with each file to help ensure file integrity, the hash will show up in a code block.
+WARNING: All links below this area are direct download links, these template files are either in [docx]  or [pdf] file format.  SHA256 file hashes have been provided with each file to help ensure file integrity, the hash will show up in a code block.
 
 ## Arrest Warrants
 * [Generic Arrest Warrant Written Statement](https://github.com/user-attachments/files/15855589/Arrest.Warrant.Template.2.docx)
