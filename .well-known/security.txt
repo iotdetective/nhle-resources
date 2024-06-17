@@ -1,5 +1,0 @@
-# security.txt
-Contact: mailto:rich@iotdetective.net
-Encryption: https://resources.iotdetective.net/pgp-key.txt
-Acknowledgements: https://resources.iotdetective.net/hall-of-fame.txt
-Policy: https://resources.iotdetective.net/security-policy.txt
