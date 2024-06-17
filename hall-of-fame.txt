@@ -1,0 +1,11 @@
+# Hall of Fame for https://resources.iotdetective.net
+
+We would like to express our gratitude to the following individuals who have reported security vulnerabilities in our system and helped us improve:
+
+## 2024
+
+- NO KNOWN VULNERABILITIES HAVE BEEN REPORTED FOR THIS GITHUB PAGE TO DATE.
+  
+We appreciate the responsible disclosure of issues by the security community and we strive to acknowledge their contributions accordingly.
+
+If you have discovered a security vulnerability, please report it to rich@iotdetective.net following the guidelines in our Security Policy: https://resources.iotdetective.net/security-policy
