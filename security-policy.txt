@@ -1,0 +1,17 @@
+# Security Policy for https://resources.iotdetective.net
+
+## Reporting a Security Issue
+
+We take security issues very seriously. If you believe you have found a security vulnerability, please send an email to rich@iotdetective.net.
+
+## Disclosure Policy
+
+If you believe you’ve discovered a security vulnerability, we encourage you to notify us. We will confirm receipt of your report, start investigating any issue right away and keep you updated on our progress.
+
+## Comments on this Policy
+
+If you have suggestions on how this process could be improved please submit your feedback to rich@iotdetective.net.
+
+## Policy Updates
+
+We may revise this policy from time to time. The most current version of the policy will be available at https://resources.iotdetective.net/security-policy.txt
