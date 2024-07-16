@@ -3,8 +3,8 @@ layout: default
 ---
 # Templates
 Welcome, you have reached my public repository of various templates for use by New Hampshire Law Enforcement Officers and Investigators. All templates have been stripped of case relevant facts and identifying data, they will help guide you with the follow examples:
-- [Arrest Warrant Templates](https://share.iotdetective.net/s/cyNDI4M){:target="_blank"}  
-- [Search Warrant Written Statements (Affidavits)](https://share.iotdetective.net/s/k2MzM2M){:target="_blank"}  
+- [Arrest Warrant Templates](https://share.iotdetective.net/s/cyNDI4M)
+- [Search Warrant Written Statements (Affidavits)](https://share.iotdetective.net/s/k2MzM2M)
 - [Search Warrant Applications (PDF Court Forms)](https://share.iotdetective.net/s/k4MzMxM)
 - [Verious Search Warrant Attachments](https://share.iotdetective.net/s/AyMzI2M)
 - [Motions to Seal](https://share.iotdetective.net/s/QzMjI5O)
